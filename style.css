@@ -1,0 +1,22 @@
+body { margin:0; padding:0; }
+#map { position:absolute; top:0; bottom:0; width:100%; }
+
+button {
+  z-index: 99 ;
+  position: absolute;
+  display: inline-block;
+  top: 20px;
+  left: auto;
+  right: 30px;
+  width: 100px;
+  height: 30px;
+  margin-right: 30px;
+  background-color: white;
+  outline: none;
+  border: none;
+  border-radius: 2px;
+}
+
+#grid-btn {
+  right: 140px;
+}
